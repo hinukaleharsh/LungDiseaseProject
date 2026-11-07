@@ -8,8 +8,6 @@ exposure ratings, with a planned 3D lung view and timeline.
 ## Data
 Not included in this repository. Download "Cancer Patients and Air Pollution"
 from Kaggle and save it as `data/raw/lung_cancer.csv`.
-The dataset appears to be synthetic (848 of 1000 rows were duplicates),
-so the model reflects the dataset, not real medicine.
 
 ## Progress
 - [x] Load, explore, clean (152 unique patients)
